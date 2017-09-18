@@ -1,3 +1,8 @@
 Foi criada uma aplicação web com objetivo de desenvolver uma To-Do list.
 Para executar o projeto, basta abrir o arquivo index.html dentro da pasta "src" e já abrirá a página referente a adição de tarefas.
-A aplicação foi ciada utilizando apenas arquivos html, js e css.
+Os arquivos estão divididos entre as pastas "css", "js" e "imagem".
+A pasta "css" contém arquivos do bootstrap utilizados na definição do layout.
+A pasta "js" contém os arquivos de javascript utilizados para execução dos processos, incluindo o uso de jquery.
+A pasta "imagem" contém a imagem utilizada para background.
+Não foi utilizado um bakend baseado em php ou nodejs para simplificar a solução em termos de configuração.
+O sistema consiste em uma lista de tarefas que o usuário pode adicionar, podendo adicionar: nome da tarefa, data de início, data de fim e se a tarefa foi condluída ou não.
