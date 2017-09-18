@@ -1,3 +1,3 @@
 Foi criada uma aplicação web com objetivo de desenvolver uma To-Do list.
-Para executar o projeto, basta abrir o arquivo index.html e já abrirá a página referente a adição de tarefas.
+Para executar o projeto, basta abrir o arquivo index.html dentro da pasta "src" e já abrirá a página referente a adição de tarefas.
 A aplicação foi ciada utilizando apenas arquivos html, js e css.
